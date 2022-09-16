@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...(not now lol)
-- 📫 How to reach me ...
+- 📫 How to reach me: xlipgmr@gmail.com
 
 <!---
 xlipgmr/xlipgmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
