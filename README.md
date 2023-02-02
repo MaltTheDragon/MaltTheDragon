@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MaltTheDragon
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Java
+- 👀 I’m playing in Minecraft now, my java account is **eduDrettOtahT**, and my bedrock is **MaltMarzipan**
+- 🌱 I’m currently learning Java and trying to get a job
 - 💞️ I’m looking to collaborate on ...(not now lol)
-- 📫 How to reach me: maltthedragon@gmail.com
+- 📫 How to reach me: admin@pixelfandom.com
+- My blog is [pixelfandom.com](https://www.pixelfandom.com/)
 
-Something happened these days, I promise I will be back when everything is done <3
 <!---
 MaltTheDragon/MaltTheDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
